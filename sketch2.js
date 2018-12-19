@@ -28,9 +28,6 @@ function setup() {
     flashColBtn.style('marginLeft', '10px');
     flashColBtn.mousePressed(shortPathBtnPressed);
 
-
-
-
 }
 
 
